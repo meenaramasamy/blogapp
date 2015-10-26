@@ -1,0 +1,2 @@
+# blogapp
+Rails testing blogapp
